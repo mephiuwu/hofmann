@@ -1,0 +1,21 @@
+.swal2-toast {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 300px;
+    height: auto;
+    padding: 10px; 
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.swal2-icon-custom {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.swal2-title-custom {
+    flex: 1;
+    font-size: 16px;
+    color: #333;
+}
